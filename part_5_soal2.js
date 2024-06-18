@@ -17,7 +17,7 @@
 
 //code switch case kamu disini
 let hari = 20;
-let bulan = 13;
+let bulan = 3;
 let tahun = 1945;
 
 switch (bulan) {
